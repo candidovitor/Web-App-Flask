@@ -5,7 +5,7 @@
 
 Web-App-Flask é uma aplicação python sem fins lucrativos como forma de aprendizado e aprimoramento de estudo adquiridos.
 
-A aplicação consiste em uma Api que retorna imformações como se fosse de compra de um carro, retornando feedback de clientes, entre outros.
+A aplicação consiste em uma Api que retorna informações como se fosse de compra de um carro, retornando feedback de clientes, entre outros.
 
 # Tecnologias utilizadas
 ## Back end
